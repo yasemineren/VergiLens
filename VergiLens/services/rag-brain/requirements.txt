@@ -3,4 +3,10 @@ uvicorn
 pandas
 numpy
 scikit-learn
-llama-index
+# RAG ve LLM Araçları
+llama-index-core
+llama-index-readers-file
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+qdrant-client
+sentence-transformers

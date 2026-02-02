@@ -1,0 +1,201 @@
+tax_id,company_name,sector,city,risk_label
+f8aaa70c,Migros,İnşaat,Lake Satrettinbury,0
+c17e7858,Yaman A.Ş.,Lojistik,New Şavkiton,0
+23b06a28,Çorlu Ltd.,Tekstil,New Nazlihan,0
+aad67503,Durmuş Ltd.,Teknoloji,Bilginmouth,0
+b35cf6ad,İçtaş İnşaat,Teknoloji,Port Gümüştekinchester,0
+8f849ff6,Aslan Manço Ltd.,İnşaat,Değmeerland,0
+759075c9,Sakarya Ergül Tic.,Tekstil,Atnanmouth,0
+6cafd567,RC Rönesans İnşaat,Tekstil,Çorluside,0
+7054287f,Karadeniz Şener Şti.,Teknoloji,Meleknurborough,0
+320eea14,Ereğli Demir Çelik,Danışmanlık,Lake Möhsimport,0
+0b18c8cc,Akdeniz Ltd.,Tekstil,South Sayınmouth,0
+8e2586b5,Aselsan,Tekstil,West Yargı,0
+a47e612a,Ülker Tic.,İnşaat,New Rojnuburgh,0
+1a0236c9,Borusan Otomotiv,İnşaat,East Begim,0
+dc479aa7,Aslan İhsanoğlu Şti.,Tekstil,Lake Toy,0
+36821449,Bilgin A.Ş.,Danışmanlık,Öğetview,1
+e478be96,Bilir Şti.,Lojistik,Mazlumfort,0
+bf5adc06,Akgündüz Çamurcuoğlu San.,Tekstil,West Eşref,0
+f5ce78c5,Korutürk Şti.,Danışmanlık,Mihriyechester,0
+930f170b,Unilever,Tekstil,Mevlütberg,0
+079dbf1b,Mey İçki,Lojistik,Port Aykutalpville,0
+f06e4380,Şener Ltd.,Danışmanlık,Tevetoğluland,0
+4a5633f2,Kısakürek Tevetoğlu San.,İnşaat,Hurşidetown,0
+ccdbfa8a,Aksa Doğalgaz,Lojistik,Lake Günselview,0
+a13bb900,Limak Yatırım,Lojistik,West Alabezekburgh,0
+93edc4cb,Yılmaz Gül Tic.,İnşaat,New Dolun,0
+df445c21,Otokoç,Tekstil,East Çakırca,0
+566a6512,Duran Şti.,İnşaat,New Torhanfort,0
+63b0e66c,Demir Tic.,İnşaat,Nihaiton,0
+a5a383e5,Akgündüz Şti.,İnşaat,North Şemsinisafort,0
+f3b8a245,İnönü Şti.,İnşaat,East Seyyide,1
+fccc1ce3,Akça Durmuş Ltd.,Danışmanlık,Gülmisalchester,0
+1a1adade,İhsanoğlu Şti.,İnşaat,Lake Taşar,0
+1649d136,Ülker Şensoy Tic.,Lojistik,Akçayhaven,0
+ec3c0039,Demir Yüksel Ltd.,İnşaat,West Akınalshire,0
+2815ab41,Kibar Dış Ticaret,Lojistik,North Besin,0
+2af59473,Yücel Boru ve Profil,Lojistik,East Bengibayton,0
+bb3235db,Erdoğan Zorlu Ltd.,Danışmanlık,Sümeryafort,0
+90778f7f,Duran Ltd.,Tekstil,Yükselfort,0
+c731c866,Akar Sakarya A.Ş.,Danışmanlık,Ergülchester,0
+1feed349,Ertaş Bilge A.Ş.,Teknoloji,North Ülküdeşmouth,0
+97ef592d,Yüksel Ltd.,Lojistik,New Ayhan,0
+446a6dd1,Şafak Ltd.,Tekstil,Behizabury,0
+04c7c684,Dumanlı Şti.,Lojistik,North Semrinside,0
+8ae3987d,Çorlu Ltd.,İnşaat,South Dilşat,0
+23c681ed,Bilir Bilge San.,Tekstil,East Çelikyürektown,1
+7c08bd89,Eraslan İhsanoğlu San.,Lojistik,Şehametside,0
+51be347a,Aksa Akrilik,Lojistik,Mançoborough,0
+a2bb0f08,Bilir Yorulmaz Şti.,Danışmanlık,Lake Tekbayton,0
+c2cdd5cc,Zengin San.,Teknoloji,North Fermuta,0
+8ed9a9de,Akdeniz Ltd.,İnşaat,New Benolbury,0
+784b04b7,Demir Akça Şti.,Tekstil,New Müsemma,0
+7916f81f,Mansız A.Ş.,İnşaat,Ülkershire,0
+72fbb04b,Zorlu Enerji,Teknoloji,Rasulborough,0
+2ad6e70c,Aksa Akrilik,Tekstil,Nevsalview,0
+36ae1a70,Yaman Ülker Tic.,İnşaat,Hayrioğluland,0
+237318ee,Ertaş Şti.,İnşaat,North Gürcüyeborough,0
+8a9e31de,Coca-Cola İçecek,Lojistik,West Beren,0
+47cb337d,Arsoy Tic.,Teknoloji,South Hanbiken,0
+d1975028,Otokoç,Tekstil,Lake Hümeyraport,0
+cd1a58c2,Oyak Renault,Teknoloji,West Ekber,0
+7123af15,Korutürk Şti.,Tekstil,West Seler,0
+b1a7066b,Selçuk Ecza,Lojistik,Kökerview,0
+452625ce,Türk Traktör,Danışmanlık,Açıkelland,0
+6847e7c8,Çalık Enerji,Lojistik,Avşintown,0
+75ae48c7,Öcalan Yaman Tic.,Tekstil,Lake Arziye,0
+b286cbc9,Bizim Toptan Satış Mağazaları,Danışmanlık,Durmuştown,0
+03f41f7e,Erdoğan Ltd.,İnşaat,Port Zennunshire,0
+33629c40,LC Waikiki Mağazacılık,Danışmanlık,Yamanton,0
+3140cc7f,Arsoy Akçay A.Ş.,Lojistik,Mahirbury,1
+0b77f6ce,Oyak Renault,Tekstil,Kandefchester,0
+e8e15988,Sepaş Enerji Sakarya Elektrik,İnşaat,East Günkurt,0
+b5cb135b,Akgündüz San.,Danışmanlık,East Şüküfemouth,0
+16d6efad,Sezgin Ülker Ltd.,İnşaat,Gümüştekinville,0
+19629796,Bilge Türk San.,Danışmanlık,East Banü,0
+9bf6ac02,Hançer Alemdar Ltd.,İnşaat,North Seyyide,0
+4d970366,Gülen Tic.,Tekstil,Berkiview,0
+28551d8a,Şensoy Zorlu San.,Teknoloji,Alpcanville,0
+a5b4d340,Akçay Zengin Tic.,Tekstil,North Nadeschester,0
+0663ce3c,Gül Çetin Tic.,Danışmanlık,Tevetoğluhaven,0
+9399db83,Kısakürek Şti.,İnşaat,West Avşin,0
+41e887d1,Indeks Bilgisayar,İnşaat,New Gürtenborough,0
+934b374f,Şafak Erdoğan Tic.,Lojistik,Sirapville,0
+acfdf14c,Otokoç,İnşaat,Sunaychester,0
+5d60391f,Gülen Sezer Tic.,Lojistik,East Şahmettin,0
+f79d4c30,TUSAŞ-Türk Havacılık ve Uzay,Tekstil,New Lezize,0
+d705436f,Gülen Durmuş A.Ş.,Lojistik,Serverborough,0
+a311b562,Çetin Zengin Şti.,İnşaat,Beraymouth,0
+064f946b,Tarhan Bilir Şti.,Danışmanlık,Çetinburgh,0
+a58e9073,Toyota Otomotiv,Teknoloji,Gökperimouth,0
+b6b4cc23,Alemdar Ltd.,Teknoloji,Muktedirborough,0
+1e691822,Yıldırım A.Ş.,İnşaat,South Neşrin,0
+c063c078,Ertaş San.,İnşaat,Lake Zehranur,0
+1120daea,Soylu Gülen Ltd.,Teknoloji,Lake Vezrife,0
+ef3c7dc8,Akçay A.Ş.,İnşaat,Bilginburgh,0
+c68b20ff,Zorlu Enerji,Teknoloji,Yorulmazside,1
+d222aedd,Çamurcuoğlu A.Ş.,Teknoloji,Yamanmouth,0
+f6536a4d,Vestel Beyaz Eşya,İnşaat,Asimanhaven,0
+523b5dc6,Karadeniz Çamurcuoğlu Şti.,Tekstil,Akçayburgh,0
+0540b52b,Sarkuysan,İnşaat,Eraslanbury,0
+6ef8f218,İçtaş İnşaat,İnşaat,Şenerbury,0
+084c1968,Dumanlı Erdoğan Tic.,Danışmanlık,West Ufukay,0
+fd5da9b0,Akçay Duran A.Ş.,İnşaat,East Müslum,0
+62cf56d7,Sezer Manço Ltd.,Tekstil,South Ğanimmouth,0
+3cd0be47,Borçelik Çelik Sanayi,Lojistik,Yorulmazborough,0
+90bca975,Kısakürek Akçay Şti.,Danışmanlık,Port Mehdiyefurt,0
+d8be4990,Yılmaz Akça Tic.,Tekstil,Özalpsanchester,0
+b86cda64,Sepaş Enerji Sakarya Elektrik,Lojistik,South Mevlüt,0
+7c1c765a,Şafak Soylu A.Ş.,İnşaat,Şamafurt,0
+a4ff4e19,Vestel Elektronik,Danışmanlık,Çamurcuoğluberg,0
+a60fb8e9,Aksa Enerji Üretim,Tekstil,South Müjdeshire,0
+1e20e68e,Opet Petrolcülük,İnşaat,Lake Abiyeberg,0
+69f41f26,Akçay Yorulmaz Tic.,İnşaat,Hayrioğluborough,0
+ba2477db,Hayrioğlu Şama San.,Danışmanlık,Şanlıview,0
+eae42039,Güçlü A.Ş.,İnşaat,West Muhyettinland,0
+d8ba3b7c,BİM Birleşik Mağazalar,Teknoloji,East Korugantown,1
+6b7399fb,Enerjisa Enerji,Tekstil,East Burcuhan,0
+c702a41c,Migros,Lojistik,South Zeyno,0
+4b2a8005,Öcalan Arsoy Ltd.,Danışmanlık,Port Günşenport,0
+06c1d292,Zengin A.Ş.,Tekstil,Mehdiyefurt,0
+85e7b9dd,Akça Demirel Ltd.,İnşaat,New Yaşarbury,0
+0c90a067,Sezer Tic.,Lojistik,Port Kübranton,0
+b3a21754,Duran Şafak Tic.,Danışmanlık,New Sehelmouth,0
+921a5572,Akdeniz San.,Lojistik,Sakaryachester,0
+6bc15004,Şener Akçay San.,Danışmanlık,South Hunalp,0
+19c1c77d,Zorlu Enerji,Danışmanlık,Nureyside,0
+ab6c3582,Ertaş Şafak Şti.,Lojistik,Tolonbaybury,0
+eaf137ca,Aslan San.,Lojistik,Port Benice,0
+e570d5ec,Tiryaki Agro Gıda,Tekstil,Şamatown,1
+784eb523,Akdeniz Hayrioğlu Ltd.,Danışmanlık,Bilirstad,0
+055c1a91,Şama Aslan Şti.,Teknoloji,Hüsnühâltown,0
+7c513d87,İÇDAŞ Çelik Enerji,Tekstil,East İlkbaharchester,0
+82b5e35a,Durmuş İnönü Ltd.,İnşaat,Şensoyfort,0
+745fca8f,Çetin Yıldırım A.Ş.,İnşaat,Mirbadinfurt,0
+2c63e5f2,Şok Marketler,Teknoloji,Sitishire,0
+8e173cdd,Güçlü Durmuş Şti.,İnşaat,Şerafeddinside,0
+e9e12450,Ergül Sezer San.,Teknoloji,Tansevview,0
+ed1d2e4f,Demir Ltd.,Tekstil,Enesside,0
+7c3ae06d,Şişecam,Teknoloji,East Dilfeza,0
+3202cdc9,Gül Zengin Şti.,Teknoloji,Denizalpborough,0
+d7cd98ef,Bilgin Arsoy Ltd.,Lojistik,Akboğaside,0
+19cd9183,Aslan A.Ş.,İnşaat,New Sittikberg,0
+af84fed5,TAV Tepe Akfen,Tekstil,Sakaryatown,0
+91230fef,BSH Ev Aletleri,Teknoloji,Güçlümouth,0
+0a83047f,Akçay Yorulmaz Tic.,Lojistik,Demirland,0
+df167bb2,Soylu Erdoğan Şti.,Lojistik,East Gençayshire,0
+8c8b908c,Çorlu Yüksel A.Ş.,Lojistik,Tevetoğlubury,0
+70e1cdd4,TUSAŞ-Türk Havacılık ve Uzay,Danışmanlık,Çamurcuoğlumouth,0
+440639f9,Bilge Zengin San.,Teknoloji,Leyliton,0
+3fb32d21,Kastamonu Entegre,Danışmanlık,Port Kızılborough,0
+72a4371d,Ülker Çorlu Ltd.,Lojistik,East Hoşkadem,0
+d98debb1,Aksu A.Ş.,Teknoloji,Dumanlıfort,0
+03335e10,Türk Bilgin Tic.,Tekstil,Zülfüyemouth,0
+69c2ef23,Tarhan Ltd.,Lojistik,Pembesinshire,0
+b8440459,JTI Tütün Ürünleri Pazarlama,Danışmanlık,Demirside,0
+ac838dfb,Şensoy Ltd.,Teknoloji,Fenniland,0
+b7bba056,Aksu Tic.,Teknoloji,Amreville,0
+4b198f79,Sezer Hançer San.,Tekstil,Evrimside,0
+ea6913f9,Dumanlı Çorlu Şti.,Lojistik,South Şeydamouth,1
+c85c5eef,İstanbul Altın Rafinerisi,Teknoloji,North Müfitshire,0
+649012b2,Petrol Ofisi,İnşaat,Mehrigülton,0
+1a104da9,Güçlü Şti.,Lojistik,Çamurcuoğluview,0
+269b3165,Zengin San.,Danışmanlık,Çorlufort,0
+22d09b39,Seven Şama Tic.,Teknoloji,Port Gündüzalpmouth,0
+555428a4,Sezer Soylu Tic.,İnşaat,Alemdarside,0
+67f089bb,Ertaş A.Ş.,İnşaat,Onursumouth,0
+1574bf86,Öcalan San.,Tekstil,Lake Hamiyetmouth,0
+af88f967,Yorulmaz Akar Şti.,Tekstil,Oluşfort,0
+eaa96e01,Güneş Ekspres Havacılık,İnşaat,East Sabaside,0
+b450e1bc,İhsanoğlu Tic.,Danışmanlık,Akgündüzfort,0
+5e56b3d2,Yıldırım Şti.,Teknoloji,Lake Güleğen,1
+f958d9c9,Durmuş Yılmaz Şti.,Lojistik,Çorlubury,0
+34076340,Ertaş A.Ş.,Lojistik,South Ünsever,0
+86c6817b,Zorlu Demirel Tic.,Danışmanlık,Karadenizfort,0
+7e672c4e,Yüksel Ertaş Şti.,Lojistik,South Kayagün,1
+9255b559,İpragaz,Danışmanlık,Port Berki,0
+4aaf8f05,Öcalan Çetin San.,Tekstil,Ferinazview,0
+e841d17a,Arslan Tic.,İnşaat,Bilgeberg,0
+93cfd370,Duran Güçlü Tic.,İnşaat,Hoşkademside,0
+877f60bc,Ertaş İhsanoğlu Tic.,Danışmanlık,Lake Nezihi,0
+dcad0189,GAP İnşaat,Tekstil,Port İlgi,0
+37e798b4,Hayrioğlu San.,Tekstil,Kısakürekberg,0
+de9653ea,Türk Yaman Şti.,İnşaat,Denizalpmouth,0
+989552d5,Fırat San.,İnşaat,Lake Fersanchester,0
+4cced7f6,Enerjisa Enerji,Lojistik,South Rohatmouth,0
+28be2552,Honda Türkiye,Danışmanlık,Şensoyland,0
+180a3e26,Akdeniz Tarhan Şti.,Lojistik,Hayrioğlufort,0
+3bb581b2,Ford Otosan,Lojistik,East Raylaport,0
+473e05b1,Korutürk A.Ş.,Teknoloji,Sakaryaville,0
+b96f3791,Aksu Sezer Tic.,Tekstil,North Toyton,0
+dd250182,Ergül Arsoy San.,Tekstil,East Gülsiye,0
+0b3205ee,Durdu Tarhan Ltd.,Tekstil,East Boynak,0
+0a0fbbea,TUSAŞ-Türk Havacılık ve Uzay,İnşaat,South Meyhanim,0
+7af6e017,Bilgin San.,Tekstil,Ballıview,0
+d82bf62b,Türk Hava Yolları,İnşaat,Akçayport,0
+63533d50,TGS Dış Ticaret,Danışmanlık,North Arziye,0
+9dcaaa36,Zengin Hançer San.,Tekstil,Açılayport,0
+a0c1b691,Kısakürek San.,İnşaat,East Çokanshire,0
+ca146ffa,Durdu Arslan Tic.,Tekstil,Port Sevlafurt,0
+d88ef4f0,Yılmaz Durdu A.Ş.,Danışmanlık,Karadenizport,0
