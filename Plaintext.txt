@@ -1,0 +1,11 @@
+VergiLens/
+├── .github/workflows/      # CI/CD Pipeline (Otomatik test ve docker build)
+├── data-generator/         # Sentetik Veri Fabrikası (Faker + Pandas)
+├── docs/                   # Mimari şemalar (C4 Model), ADR'ler
+├── infra/                  # Docker Compose, Prometheus, Grafana ayarları
+├── services/
+│   ├── gateway-guard/      # Java Spring Boot (API Gateway + Audit Logging)
+│   ├── rag-brain/          # Python FastAPI (LlamaIndex + Neo4j)
+│   ├── risk-engine/        # Python (PyTorch/Sklearn - Anomali Tespiti)
+│   └── dashboard/          # Streamlit veya Next.js (Frontend)
+└── tests/                  # End-to-end test senaryoları
